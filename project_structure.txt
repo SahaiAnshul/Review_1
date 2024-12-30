@@ -1,0 +1,23 @@
+// Project Structure:
+// music-app/
+// ├── src/
+// │   ├── Main.java
+// │   ├── controllers/
+// │   │   └── MusicController.java
+// │   ├── models/
+// │   │   └── Song.java
+// │   ├── views/
+// │       └── index.html
+// ├── resources/
+// │   ├── styles/
+// │   │   └── style.css
+// │   ├── scripts/
+// │   │   └── app.js
+// │   ├── bootstrap/
+// │       ├── css/
+// │       │   └── bootstrap.min.css
+// │       └── js/
+// │           └── bootstrap.bundle.min.js
+// ├── db/
+// │   └── music_db.sql
+// ├── pom.xml
