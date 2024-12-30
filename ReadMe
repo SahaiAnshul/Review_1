@@ -1,0 +1,14 @@
+🎵 Musicify - Your Personal Music Streaming Platform
+Musicify is a feature-rich music streaming platform where users can explore, stream, and create playlists of their favorite tracks. Built with modern web technologies, it delivers a seamless audio experience.
+
+🚀 Features
+User Authentication: Secure sign-up and login with JWT.
+Music Streaming: High-quality audio streaming.
+Playlists: Create, edit, and share custom playlists.
+Search: Find songs, artists, and albums easily.
+Responsive Design: Optimized for all devices.
+🛠️ Tech Stack
+Frontend: React.js, CSS, Bootstrap
+Backend: Node.js, Express.js
+Database: MySQL
+Other Tools: REST APIs, Cloudinary (for album art), JWT
